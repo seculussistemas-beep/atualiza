@@ -1,0 +1,7 @@
+{
+  "versao": "4.2.12",
+  "arquivo": "painel-shield-4.2.12.zip",
+  "tamanho": 1622283,
+  "sha256": "9c9a077b8b9c2b303b01e588b72041ba0dd854bfa28ee2fe6cf1575e6318e428",
+  "notas": "Juros e multa cobrados pelo Asaas no atraso não viram mais crédito do cliente; ajuste do crédito pela tela. Multa e juros da régua vão ao Asaas e ao boleto do Inter na emissão. Inter: boleto e PIX aceitam pagamento até 30 dias depois do vencimento (configurável) e o boleto sai em PDF pelo painel e pela área do cliente. Confirmar pagamento à mão dá baixa no Asaas. Gerar de novo a mensalidade cancelada. Certificados digitais com item no menu e aviso por e-mail. Régua não repete o aviso no mesmo dia. Plano novo não sobrescreve outro de mesma duração. Erro de banco explica a causa, e o envio do pacote pela tela tenta de novo.",
+}
